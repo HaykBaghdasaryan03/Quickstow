@@ -8,11 +8,11 @@ Hayk Baghdasaryan [haykbaghdasaryan10@gmail.com]
 # How to Use
 The program does not have an .exe version of it yet, so you have to run it by typing this commands in terminal:
 
-cd Quickstow (or whatever the folder is named)
+cd Quickstow
 
-pip install requirements.txt
+./App
 
-python main.py
+Thats it!
 
 - - -
 The interface opens with a chromium tab , so make sure you have it installed.
